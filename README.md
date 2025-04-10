@@ -1,7 +1,3 @@
-# python-learning-roadmap
-
-A structured Python learning journey from beginner to expert, focused on AI/ML &amp; automation.
-
 # 🐍 Python Learning Roadmap
 
 Welcome to my structured Python learning journey — from foundations to expert level with a focus on AI/ML and automation!
