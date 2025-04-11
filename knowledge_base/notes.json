@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "content": "This is a note taking command line tool that will allow me to keep notes and read them whenever I want.",
+    "timestamp": "2025-04-10T21:01:30.790608"
+  },
+  {
+    "id": 2,
+    "content": "I am adding another note ",
+    "timestamp": "2025-04-10T21:02:02.031062"
+  },
+  {
+    "id": 3,
+    "content": "I am adding a third note and I like how there is everyhting in this very little amount of code",
+    "timestamp": "2025-04-10T21:02:31.894499"
+  },
+  {
+    "id": 4,
+    "content": "I need to use unique words to search for in my notes",
+    "timestamp": "2025-04-10T21:03:22.239005"
+  }
+]
